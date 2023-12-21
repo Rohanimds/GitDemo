@@ -25,5 +25,6 @@ public static boolean palindrome(int i) {
 	result=false;
 	}
 	return result;
+	// This is the change made by gitStuff(person x)
 }
 }
