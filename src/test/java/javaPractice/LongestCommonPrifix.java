@@ -30,14 +30,5 @@ public static void main(String[] args) {
 	//This is for the branch develop
 	//This is for the branch develop(By X)
 	
-	// New update for today
-	
-	//6
-	
-	//10
-	
-	
-	
-	//51
 }
 }
